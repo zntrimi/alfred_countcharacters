@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.alfred.zentaro</string>
 	<key>connections</key>
 	<dict>
 		<key>3F1B1B38-17D6-41F7-AD36-4250781378FA</key>
@@ -34,13 +34,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>Zentaro Imai</string>
 	<key>description</key>
-	<string></string>
+	<string>It simply count characters of query.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>howmanywords</string>
+	<string>Count characters</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -118,7 +118,8 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>It simply count characters of query.
+Ingores spaces and returns.</string>
 	<key>uidata</key>
 	<dict>
 		<key>3ADF2CD3-FDE4-4E56-9199-E94869C095DB</key>
@@ -145,6 +146,10 @@
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
