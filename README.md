@@ -1,7 +1,7 @@
 Download Workflow [here](https://github.com/zntrimi/alfred_countcharacters/releases/download/v0.1/Count.characters.alfredworkflow)
 
 # Alfred Character Counter
-
+Japanese follows
 文字数を数えるAlfred Workflowです。
 任意のキーワード(デフォルトはcount)でtriggerし、好きな文章をペーストしてください。Returnで文字数がLarge Textで表示されます。
 
