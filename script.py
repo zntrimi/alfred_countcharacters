@@ -1,5 +1,5 @@
 import sys
-
+# word would be query :
 word = sys.argv[1]
 
 
