@@ -76,7 +76,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string></string>
+				<string>Count characters of query</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
