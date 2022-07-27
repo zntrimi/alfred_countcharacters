@@ -1,4 +1,4 @@
-Download Workflow here
+Download Workflow [here](https://github.com/zntrimi/alfred_countcharacters/releases/download/v0.1/Count.characters.alfredworkflow)
 
 # Alfred Character Counter
 
